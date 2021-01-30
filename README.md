@@ -4,7 +4,7 @@ Get the Configuration keys from https://firebase.google.com after making a proje
 
 ## Made with 💥 :
  ```
-👉 Real Time Post
+👉 Firestore for real time Feed Post
 👉 Firebase Authentication
 👉 Material UI
 ```
